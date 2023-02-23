@@ -2,7 +2,7 @@
 
 # Notas de Aula
 
-[Modelagem de banco de dados relacional: Álgebra relacional](Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20re%207b805e9e33474ec2acda33590af8cf20/Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20re%2025d8490dce044ff094fa7d5a2aff6488.md)
+[Modelagem de banco de dados relacional: Álgebra relacional](Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20relacional/Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20relacional.md)
 
 # Conteúdos
 
