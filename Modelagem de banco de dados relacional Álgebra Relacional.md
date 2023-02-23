@@ -1,7 +1,7 @@
 # Modelagem de banco de dados relacional: Álgebra relacional
 
 # Notas de Aula
-
+[Modelagem de banco de dados relacional: Álgebra relacional](https://github.com/RSAmanda/Alura_BD_algebra_relacional/blob/e2c4898b59265398ff2d24ebaedf816f4d21ae91/Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20Relacional/Modelagem%20de%20banco%20de%20dados%20relacional%20A%CC%81lgebra%20Relacional.md)
 
 # Conteúdos
 
