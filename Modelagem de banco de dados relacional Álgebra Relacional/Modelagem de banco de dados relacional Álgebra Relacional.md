@@ -2,7 +2,8 @@
 
 # Link do Curso
 
-[](https://cursos.alura.com.br/course/modelagem-banco-dados-algebra-relacional)
+
+[Modelagem Banco de Dados: Álgebra Relacional | ALURA](https://cursos.alura.com.br/course/modelagem-banco-dados-algebra-relacional)
 
 # Materiais de Apoio
 
